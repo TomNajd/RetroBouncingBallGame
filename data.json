@@ -1,0 +1,25 @@
+{
+    "players": [
+        {
+            "rank": 1,
+            "name": "Tom",
+            "score": 100
+
+        },
+        {
+            "rank": 2,
+            "name": "Alice",
+            "score": 98
+        },
+        {
+            "rank": 3,
+            "name": "Bob",
+            "score": 85
+        },
+        {
+            "rank": 4,
+            "name": "Charlie",
+            "score": 75
+        }
+    ]
+}
